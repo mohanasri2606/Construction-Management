@@ -86,18 +86,3 @@ The following tables and their relationships are defined in the schema:
     *   Retrieve data based on various criteria.
     *   Generate reports and analytics.
 
-**Contributing**
-
-Contributions are welcome! Please submit a pull request with your changes.
-
-**License**
-
-This project is licensed under the [Choose a License - e.g., MIT License].
-
-Feel free to further customize this `README.md` with additional information, such as:
-
-*   Specific instructions on how to create the database and execute the SQL scripts.
-*   Example queries to demonstrate database usage.
-*   Any additional notes or considerations for using the database.
-
-I hope this helps! Let me know if you have any further questions.
